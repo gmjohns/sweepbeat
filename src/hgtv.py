@@ -8,7 +8,8 @@ import time
 emails = ['gmjohns@g.clemson.edu', 'gjohnso@ncsu.edu', 'garrett@hightenfund.com', 
                 'ebhammel@outlook.com', 'ebhammel27@gmail.com', 'oricky@comcast.net', 
                 'aben@comcast.net', 'nrbaime@yahoo.com', 'jeannehammel@me.com', 
-                'cameronhammel@me.com', 'kvh5021@gmail.com', 'dbegley4@gmail.com']
+                'cameronhammel@me.com', 'kvh5021@gmail.com', 'dbegley4@gmail.com',
+                'djhunt605@gmail.com']
 
 HGTV_URL = 'https://www.hgtv.com/design/hgtv-dream-home/sweepstakes'
 DIY_URL = 'https://www.diynetwork.com/hgtv-dream-home'
